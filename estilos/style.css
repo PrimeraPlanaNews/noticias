@@ -1,0 +1,100 @@
+
+*{
+margin:0; 
+padding:0;
+}
+
+    html {
+background-color:black;
+}
+
+	body{
+width:1280px;
+ height:800px;
+ margin:auto;
+ background-color:black;
+}
+       
+	header{
+width:1280px;
+ height:150px;
+ background-color:green;
+}
+        Banner{
+width:1000px;
+ height:250px;
+ background-color:blue;
+}
+        
+	nav{
+width:1280px;
+ height:200px;
+ background-color:silver;
+}
+        
+	main{
+width:1280px;
+ height:250px;
+ background-color:black;
+}
+        section#banner{
+width:1000px;
+ height:250px;
+ float:left;
+background-color:Blue;
+}
+        section#logo{
+width:280px;
+ height:250px;
+ float:left;
+background-color:Red;
+}
+        section#inicio{
+width:320px;
+ height:100px;
+ float:left;
+ background-color:white;
+}
+        section#nosotros{
+width:320px;
+ height:100px;
+ float:left;
+ background-color:skyblue;
+}	
+        section#contactos{
+width:320px;
+ height:100px;
+ float:left;
+ background-color:white;
+}
+        section#ubicanos{
+width:320px;
+ height:100px;
+ float:left;
+ background-color:skyblue;
+}
+
+	footer{
+width:1280px;
+ height:100px;
+ background-color:Gold;
+}
+
+        
+	
+	
+	
+        
+	aside{
+width:280px;
+ height:250px;
+ float:left;
+background-color:brown;
+}
+       article{
+width:976px;
+ height:226px;
+ float:left;
+ background-color:green;
+ padding:12px;
+}
